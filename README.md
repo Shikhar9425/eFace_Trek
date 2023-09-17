@@ -1,4 +1,4 @@
-#1. INTRODUCTION
+<h2 align=center> 🌟 INTRODUCTION 🌟 </h2>
 eFace Trek highlights its significance in the context of attendance management. Attendance 
 tracking is crucial in educational institutions and organizations, but traditional methods like 
 manual roll calls are inefficient and prone to errors. eFace Trek addresses this issue by 
@@ -13,7 +13,7 @@ Recognition is being able to uniquely identify and verify a person’s face by c
 analyzing a biometrics person’s face. A face recognition system is an application that is used for 
 identifying or verifying a person from a digital image.
 
-#2. PROBLEM DOMAIN
+<h2 align=center> PROBLEM DOMAIN </h2>
 The problem that eFace Trek addresses is the inefficiency and unreliability of traditional 
 attendance management systems. These systems heavily rely on human involvement, which 
 makes them susceptible to errors and fraudulent activities, such as proxy attendance and also it is 
@@ -25,7 +25,7 @@ technology. Our main goal is to make eFace Trek to solve these problems. It will
 attendance very well, make less work for the people in charge, and be more secure because of the 
 cool facial recognition technology.
 
-#3.SOLUTION DOMAIN
+<h2 align=center> SOLUTION DOMAIN </h2>
 eFace Trek is a high-tech system that uses advanced computer learning algorithms such as knn 
 algorithm. The solution domain for a face eFace Trek encompasses the technologies, 
 components, and processes involved in implementing and operating such system. It uses good 
@@ -37,7 +37,7 @@ recognize individuals accurately. eFace Trek allows for the enrollment of indivi
 features into the database. It tracks and records the attendance of individuals based on the 
 recognized faces.
 
-#4.SYSTEM DOMAIN
+<h2 align=center> SYSTEM DOMAIN</h2>
 To make eFace Trek work, we'll use different tools and technology. we will be using 
 programming language python , libraries such as numpy and pandas , knn algorithm ,Open CV
 and a web application framework written in python known as Flask. eFace Trek is compatibility 
@@ -50,7 +50,7 @@ The Software Specification needed for implementing eFace Trek are it requires ro
 accurate face recognition algorithms and needs a database management system (DBMS) to store 
 and manage the enrolled facial template , also eFace Trek should have a user-friendly interface.
 
-#5.APPLICATION DOMAIN
+<h2 align=center> APPLICATION DOMAIN</h2>
 eFace Trek is useful in many places like schools, businesses, and anywhere people need to track 
 attendance. It works well in different situations and helps with attendance issues. It makes things 
 easier, reduces mistakes, and makes things more secure by making sure the right people are 
@@ -58,7 +58,7 @@ where they should be. eFace Trek's adaptability, accuracy, and ease of use make 
 asset in diverse industries, improving the daily lives of educators, employees, and various 
 stakeholders through streamlined attendance tracking and enhanced security.
 
-#6.EXPECTED OUTCOME
+<h2 align=center> EXPECTED OUTCOME</h2>
 The expected outcomes of this project include:
  Implementation of eFace Trek, a highly accurate, automated attendance tracking system.
  Substantial reduction in administrative workload and associated costs.
